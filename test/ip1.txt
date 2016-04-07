@@ -1,0 +1,8 @@
+  (S
+    (NP (DT The) (NNS elephants))
+    (VP (VBD went)
+      (PP (TO to)
+        (NP (DT the) (NN lake)))
+      (PP (IN in)
+        (NP (DT the) (NN forest))))
+    (. .)))
